@@ -36,40 +36,7 @@ fitness/
 
 ---
 
-## ⚙️ Setup Instructions
 
-1. Install WAMP/XAMPP
-2. Move project folder to:
-
-   ```
-   C:\wamp\www\
-   ```
-3. Start Apache & MySQL
-4. Create database:
-
-   ```
-   fitness
-   ```
-5. Create table:
-
-   ```
-   membership
-   ```
-6. Open browser:
-
-   ```
-   http://localhost/fitness/membership.html
-   ```
-
----
-
-## 📸 Output
-
-* User fills the form
-* Data stored in database
-* Success message displayed
-
----
 
 ## 🎯 Future Enhancements
 
